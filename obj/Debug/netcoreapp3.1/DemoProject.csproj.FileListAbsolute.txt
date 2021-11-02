@@ -1,0 +1,13 @@
+D:\SolutionOne\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.exe
+D:\SolutionOne\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.deps.json
+D:\SolutionOne\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.json
+D:\SolutionOne\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.dev.json
+D:\SolutionOne\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.dll
+D:\SolutionOne\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.pdb
+D:\SolutionOne\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csprojAssemblyReference.cache
+D:\SolutionOne\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfoInputs.cache
+D:\SolutionOne\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfo.cs
+D:\SolutionOne\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.CoreCompileInputs.cache
+D:\SolutionOne\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.dll
+D:\SolutionOne\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.pdb
+D:\SolutionOne\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.genruntimeconfig.cache
